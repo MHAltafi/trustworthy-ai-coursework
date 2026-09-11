@@ -19,3 +19,7 @@ Assignment1/pytorch-cifar-models/
 
 # Assignment data
 Assignment1/data/
+Assignment2/data/
+
+# Some of the models
+Assignment2/model/
